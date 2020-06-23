@@ -6,6 +6,8 @@
 
 ![image](https://github.com/hxy-111/images/blob/master/douban/index.png)
 
+![image](https://github.com/hxy-111/images/blob/master/douban/list.png)
+
 ![Image](https://github.com/hxy-111/images/blob/master/douban/echarts1.png)
 
 ![Image](https://github.com/hxy-111/images/blob/master/douban/echarts2.png)
