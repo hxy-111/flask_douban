@@ -4,20 +4,20 @@
 # 效果预览
 > 总体预览
 
-![Image text](./images/douban/login.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/login.png)
 
-![Image text](./images/douban/index.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/index.png)
 
-![Image text](./images/douban/echarts1.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/echarts1.png)
 
-![Image text](./images/douban/echarts2.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/echarts2.png)
 
-![Image text](./images/douban/echarts3.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/echarts3.png)
 
-![Image text](./images/douban/echarts4.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/echarts4.png)
 
-![Image text](./images/douban/echarts5.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/echarts5.png)
 
-![Image text](./images/douban/echarts6.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/echarts6.png)
 
-![Image text](./images/douban/echarts7.png)
+![Image text](https://github.com/hxy-111/images/tree/master/douban/echarts7.png)
